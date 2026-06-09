@@ -93,7 +93,7 @@ employee-management-system/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/prawinrk/employee-management-system.git
+git clone https://github.com/sarguru16/Employee-Management-System
 cd employee-management-system
 ```
 
@@ -217,9 +217,9 @@ Updated Application on AWS EC2
 
 ## 👨‍💻 Author
 
-**Prawin R K**
+**SARGURU N**
 
-GitHub: https://github.com/prawinrk
+GitHub: https://github.com/sarguru16
 
 ---
 
