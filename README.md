@@ -232,6 +232,6 @@ GitHub: https://github.com/sarguru16
 - Cloud Deployment on AWS EC2
 - Resume-Friendly Project
 
---- hii
+---
 
 If you found this project useful, please consider giving it a ⭐ on GitHub. 
