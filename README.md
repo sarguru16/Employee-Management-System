@@ -93,7 +93,7 @@ employee-management-system/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/sarguru16/Employee-Management-System
+git clone https://github.com/sarguru16/Employee-Mpanagement-System
 cd employee-management-system
 ```
 
@@ -232,6 +232,6 @@ GitHub: https://github.com/sarguru16
 - Cloud Deployment on AWS EC2
 - Resume-Friendly Project
 
----
+--- Hi
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
